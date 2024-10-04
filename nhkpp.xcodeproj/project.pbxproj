@@ -58,6 +58,7 @@
 		D093E14F2CAF70040071EEAC /* nhkpp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = nhkpp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D093E15B2CAF70040071EEAC /* nhkpp Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "nhkpp Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D093E1652CAF70040071EEAC /* nhkpp Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "nhkpp Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D093E1A22CAF77B60071EEAC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -223,6 +224,7 @@
 		D093E1202CAF70020071EEAC = {
 			isa = PBXGroup;
 			children = (
+				D093E1A22CAF77B60071EEAC /* README.md */,
 				D093E1252CAF70020071EEAC /* Shared (App) */,
 				D093E12E2CAF70040071EEAC /* Shared (Extension) */,
 				D093E13F2CAF70040071EEAC /* iOS (App) */,

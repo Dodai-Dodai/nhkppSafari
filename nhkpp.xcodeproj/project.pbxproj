@@ -110,13 +110,11 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
-				Resources/background.js,
 				Resources/content.js,
 				Resources/images,
 				Resources/manifest.json,
 				Resources/popup.css,
 				Resources/popup.html,
-				Resources/popup.js,
 				SafariWebExtensionHandler.swift,
 			);
 			target = D093E15A2CAF70040071EEAC /* nhkpp Extension (iOS) */;
@@ -125,13 +123,11 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
-				Resources/background.js,
 				Resources/content.js,
 				Resources/images,
 				Resources/manifest.json,
 				Resources/popup.css,
 				Resources/popup.html,
-				Resources/popup.js,
 				SafariWebExtensionHandler.swift,
 			);
 			target = D093E1642CAF70040071EEAC /* nhkpp Extension (macOS) */;

@@ -1,7 +1,7 @@
-browser.runtime.sendMessage({ greeting: "hello" }).then((response) => {
-    console.log("Received response: ", response);
-});
+document.addEventListener('enterpictureinpicture', function(event) {
+    event.stopImmediatePropagation();
+}, true);
 
-browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
-    console.log("Received request: ", request);
-});
+document.addEventListener('leavepictureinpicture', function(event) {
+    event.stopImmediatePropagation();
+}, true);
